@@ -1,0 +1,6 @@
+Aula 01 - Qualidade e teste de Software
+# qualidade-e-teste-de-software
+Codigo HTML e CSS
+
+Foi adicionado o código base de HTML e adicionado o arquivo de estilo CSS
+e adicionado tag (marquee)
